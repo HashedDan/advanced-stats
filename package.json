@@ -1,0 +1,26 @@
+{
+  "name": "advanced-stats",
+  "version": "1.0.0",
+  "description": "A javascript library for calculating advanced statistics from traditional ones.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HashedDan/advanced-stats.git"
+  },
+  "keywords": [
+    "nba",
+    "nfl",
+    "stats",
+    "advanced",
+    "mlb"
+  ],
+  "author": "Daniel Mangum",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HashedDan/advanced-stats/issues"
+  },
+  "homepage": "https://github.com/HashedDan/advanced-stats#readme"
+}
