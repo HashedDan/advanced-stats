@@ -45,7 +45,7 @@ nba.prototype = {
         * @returns {number}
    */
    usg(fga, fta, tov, tmp, mp, tfga, tfta, ttov) {
-
+        return (100*((fga+.44*fta+tov)*(tmp/5)))/(mp*(tfga+0.44*tfta+ttov));
    }
 
 
